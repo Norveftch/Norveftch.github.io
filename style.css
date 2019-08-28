@@ -1,0 +1,27 @@
+body {
+background: #B2D7CE;
+text-align: center;
+}
+#main {
+width: 1000px;
+height: 1080px;
+background: #FFFFFF;
+margin: 25px auto;
+border: dashed 5px #94C7BA;
+padding: 10px;
+}
+h1 {
+text-align: center;
+font-family:"Comfortaa";
+font: 24pt;
+color: #94C7BA;
+}
+hr {
+height: 2px;
+color: #94C7BA;
+}
+p {
+font-family:"Comfortaa";
+font-size: 15pt;
+color: #94C7BA;
+}
