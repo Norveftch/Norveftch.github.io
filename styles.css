@@ -1,17 +1,27 @@
-* {
-  margin:0px;
-  padding:0px;
+body {
+background: #B2D7CE;
+text-align: center;
 }
-
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+#main {
+width: 1000px;
+height: 1080px;
+background: #FFFFFF;
+margin: 25px auto;
+border: dashed 5px #94C7BA;
+padding: 10px;
 }
-
+h1 {
+text-align: center;
+font-family:"Comfortaa";
+font: 24pt;
+color: #94C7BA;
+}
+hr {
+height: 2px;
+color: #94C7BA;
+}
 p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+font-family:"Comfortaa";
+font-size: 15pt;
+color: #94C7BA;
 }
